@@ -1,0 +1,25 @@
+{
+  "name": "ilovemycity-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmesh-kh24/ilovemycity-handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharmesh-kh24/ilovemycity-handlebars/issues"
+  },
+  "homepage": "https://github.com/dharmesh-kh24/ilovemycity-handlebars#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
